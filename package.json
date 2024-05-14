@@ -8,6 +8,10 @@
   "scripts": {
     "build": "tsup"
   },
+ 
+  "repository": {
+    "url": "https://github.com/timitalia/globalcore"
+  },
   "keywords": [],
   "author": "timitalia",
   "license": "MIT",
