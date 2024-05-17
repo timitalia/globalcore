@@ -5,4 +5,5 @@ export { default as GridSection } from "./sections/GridSection";
 export { default as PageContent } from "./sections/PageContent";
 export { default as SideNavDrawer } from "./sections/SideNavDrawer";
 export { default as SideNavMenuItem } from "./sections/SideNavMenuItem";
+export { default as SideNavSubMenu } from "./sections/SideNavSubMenu";
 export { default as SideNavSubMenuItem } from "./sections/SideNavSubMenuItem";

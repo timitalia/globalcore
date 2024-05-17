@@ -13,6 +13,6 @@
     "noEmit": true,
     "outDir": "dist"
   },
-  "include": ["src"],
+  "include": ["src", "src/svg.d.ts"],
   "exclude": ["node_modules"]
 }

@@ -1,5 +1,5 @@
-import React, { useEffect } from "react";
-import { Drawer } from "@mui/material";
+import React, { useEffect } from 'react';
+import { Drawer } from '@mui/material';
 
 interface SideNavDrawerProps {
   useStore: () => { drawerOpen: boolean; setDrawerOpen: (open: boolean) => void };
